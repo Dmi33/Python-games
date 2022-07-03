@@ -1,5 +1,13 @@
 # Python-games
 
+#### 1. АКУЛИНА
+
+![image](https://user-images.githubusercontent.com/108614519/177047992-22a439bf-a24c-4b49-8f40-ca2ff36ed872.png)
+
+Карточная игра, в которой игроки избавляются от карт, пока у одного из них не останется дама пик.
+
+https://uprostim.com/kak-igrat-v-akulinu-ona-zhe-pikovaya-dama-ili-vedma/
+
 #### 2. ВИСЕЛИЦА
 
 ![image](https://user-images.githubusercontent.com/108614519/177044963-89df95cd-04f4-49cf-b10c-b55626fd1a4f.png)
